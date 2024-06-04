@@ -9,19 +9,19 @@ Elaborar um GAME com o objetivo de orientar os colaboradores internos sobre a jo
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Zoopliers
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo1
+  - Link do repositório: https://github.com/InteliProjects/Inteli-College-2024-T0014-IN01-G01
 
 - Grupo 2 - MetaMakers
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo2
+  - Link do repositório: https://github.com/InteliProjects/Inteli-College-2024-T0014-IN01-G02
 
 - Grupo 3 - Cometa
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo3
+  - Link do repositório: https://github.com/InteliProjects/Inteli-College-2024-T0014-IN01-G03
 
 - Grupo 4 - Metódicos
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo4
+  - Link do repositório: https://github.com/InteliProjects/Inteli-College-2024-T0014-IN01-G04
 
 - Grupo 5 - Metamorfose
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo5
+  - Link do repositório: https://github.com/InteliProjects/Inteli-College-2024-T0014-IN01-G05
 
 
 
